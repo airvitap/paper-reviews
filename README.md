@@ -12,3 +12,6 @@ Papers :
 
 ## 2025
 
+Article :
+- Security :
+    - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
