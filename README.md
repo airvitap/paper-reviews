@@ -8,7 +8,7 @@ BLogs :
 
 Papers :
 - Security 
-  - PANDORA: Jailbreak GPTs by Retrieval Augmented Generation Poisoning -[[pandora.pdf](https://github.com/DeepBinder-main/paper-reviews/blob/main/LLM/Security/pandora.pdf)]
+  - PANDORA: Jailbreak GPTs by Retrieval Augmented Generation Poisoning -[[pandora.pdf](https://github.com/DeepBinder-main/paper-reviews/blob/main/LLM/Security/pandora.pdf)] , [Writeup](https://github.com/DeepBinder-main/paper-reviews/blob/main/LLM/Security/pandora.md)
 
 ## 2025
 
